@@ -189,7 +189,7 @@ class Installer(object):
     ↳ Script --> The [os.path.dirname(os.path.normpath(__file__)) + \ + location] of the script.
     """
 
-    tty_command = f"putty -ssh -l snow -pw Kn0wledge! -m {script} {server}"
+    tty_command = f"putty -ssh -l username -pw password -m {script} {server}"
 
     Terminal(tty_command).display()
     Progress(10).display()
