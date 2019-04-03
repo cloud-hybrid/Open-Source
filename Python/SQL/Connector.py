@@ -53,7 +53,7 @@ def main():
 
   VPS_IP = NETWORK + str(subnet)
 
-  connection.addVPS("test2", "P@ssW0rd$", "Wordpress", NETWORK + str(subnet), 512, 1, "N/A", 0, "jsanders4129@gmail.com")
+  connection.addVPS("test2", "P@ssW0rd$", "Wordpress", NETWORK + str(subnet), 512, 1, "N/A", 0, "example@email.com")
   
   connection.disconnect()
 
