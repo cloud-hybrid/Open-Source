@@ -1,0 +1,4 @@
+datetime,avg_price,closed_price,donch_bot,donch_top,id,max_price,median,min_price,mod_rank,open_price,volume,wa_price
+2018-11-27T00:00:00.000+00:00,30.0,30,30,30,5bfddadefb166600232d8127,30,30,30,0,30,1,30.0
+2018-12-04T00:00:00.000+00:00,45.0,45,30,45,5c07156bfb1666002337a83e,45,45,45,0,45,1,45.0
+2019-01-30T00:00:00.000+00:00,25.0,25,25,45,5c523b1b3ae3e80024aab82c,25,25,25,0,25,1,25.0

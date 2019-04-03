@@ -1,0 +1,33 @@
+
+08:49:55 - [5340](Plugins) Loading C:\Program Files (x86)\Steam\steamapps\common\DayZ Tools\Bin\ObjectBuilder\FBX.dll
+08:49:55 - [5340](Plugins) Plugin successfully loaded
+08:49:55 - [5340](Plugins) Loading C:\Program Files (x86)\Steam\steamapps\common\DayZ Tools\Bin\ObjectBuilder\gifload.dll
+08:49:55 - [5340](Plugins) Invalid module. Missing link to InitPluginModule function (127)
+08:49:55 - [5340](Plugins) Loading C:\Program Files (x86)\Steam\steamapps\common\DayZ Tools\Bin\ObjectBuilder\jpgload.dll
+08:49:55 - [5340](Plugins) Invalid module. Missing link to InitPluginModule function (127)
+08:49:55 - [5340](Plugins) Loading C:\Program Files (x86)\Steam\steamapps\common\DayZ Tools\Bin\ObjectBuilder\licenseMgr.dll
+08:49:55 - [5340](Plugins) Invalid module. Missing link to InitPluginModule function (127)
+08:49:55 - [5340](Plugins) Loading C:\Program Files (x86)\Steam\steamapps\common\DayZ Tools\Bin\ObjectBuilder\MAT.dll
+08:49:55 - [5340](Plugins) Plugin successfully loaded
+08:49:55 - [5340](Plugins) Loading C:\Program Files (x86)\Steam\steamapps\common\DayZ Tools\Bin\ObjectBuilder\ModelConfigEditor.dll
+08:49:55 - [5340](Plugins) Plugin successfully loaded
+08:49:55 - [5340](Plugins) Loading C:\Program Files (x86)\Steam\steamapps\common\DayZ Tools\Bin\ObjectBuilder\pacload.dll
+08:49:55 - [5340](Plugins) Invalid module. Missing link to InitPluginModule function (127)
+08:49:55 - [5340](Plugins) Loading C:\Program Files (x86)\Steam\steamapps\common\DayZ Tools\Bin\ObjectBuilder\Pal2Pac.dll
+08:49:55 - [5340](Plugins) Invalid module. Missing link to InitPluginModule function (127)
+08:49:55 - [5340](Plugins) Loading C:\Program Files (x86)\Steam\steamapps\common\DayZ Tools\Bin\ObjectBuilder\UIDebugger.dll
+08:49:55 - [5340](Plugins) Invalid module. Missing link to InitPluginModule function (127)
+08:49:55 - [5340](ExtViewer) External viewer init
+08:50:01 - [5340](ExtViewer) FinalDetach.
+08:50:01 - [5340](ExtViewer) External viewer done
+08:50:01 - [5340]CObjektiv2App::ExitInstanceeeeeeeeeeee()
+08:50:01 - [5340]exitprogress=true...
+08:50:01 - [5340]wait for !progresrun
+08:50:01 - [59C4]exitprogress loop go
+08:50:01 - [59C4]if progressHandler.InProgress()
+08:50:01 - [59C4]exitprogress mx?
+08:50:01 - [59C4]exitprogress loop end
+08:50:02 - [5340]!progresrun
+08:50:02 - [5340]protClose
+08:50:02 - [5340]CObjektiv2App::ExitInstance() done
+08:50:02 - [5340]Destroy Direct3D renderer
